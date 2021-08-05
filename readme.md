@@ -1,16 +1,22 @@
+<div align="center">	
+	<p>	
+		<a href="https://doppler.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-bots&utm_source=github">	
+      <div>	
+				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="260"  alt="Doppler">	
+			</div>	
+      <br>
+			<b>All your environment variables, in one place</b>	
+			<div>Stop struggling with scattered API keys, hacking together home-brewed tools,</div>
+			<div>and avoiding access controls. Keep your team and servers in sync with Doppler.</div>
+			</br>
+		</a>	
+	</p>	
+</div>	
+
+
 # Awesome bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-![Botcube awesome bots chatbots](banner.png)
-
 > Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
-
-### We also run one of the most active Facebook communities (1100+ members) and Telegram channel (1,700+ members) about voice assistants.
-
-You can request access here:
-
-1. Facebook group: https://www.facebook.com/groups/storylinecommunity
-
-2. Telegram channel (hot industry news & insights): https://t.me/botcube
 
 ## Table of Contents
 - [Voice bots](#voice-bots)
@@ -107,6 +113,7 @@ You can request access here:
 * [Slack bot directory](https://slack.com/apps)
 * [Intento](https://inten.to/) - Search platform for FB Messenger/Telegram/Viber
 * [Telegram Bots Store](https://storebot.me/)
+* [Discord Bots List](https://top-bots.xyz)
 * [Botpages](https://www.botpages.com/) - Botpages help make it easier for you to discover and find bots
 * [ProductHunt bot directory](https://www.producthunt.com/topics/bots)
 * [TeamChat botstore](http://www.teamchat.com/en/bot-store/)
@@ -146,6 +153,7 @@ You can request access here:
 * [Dashbot](https://www.dashbot.io/) - Actionable Bot Analytics. Increase user engagement, acquisition, and monetization through actionable bot analytics. Now supporting Alexa and Google Home
 * [BotAnalytics](https://botanalytics.co/) - Make decisions with historical & real time conversation data. We combine real time conversations with historical ones to help answer the toughest questions about engaged, churnable and retained conversations
 * [Facebook Bot Analytics](https://developers.facebook.com/docs/messenger-platform/product-overview/analytics) - Official Analytics tool for Facebook Messenger Bots
+* [Image-Charts](https://image-charts.com/) - Display high-resolution, beautiful crisp charts to your customers through your chat bot
 * [ChatUrl](https://charturl.com/) - Easily add rich, data-driven charts to your web & mobile apps, chat bots, and emails. We’ve thought of everything to help you transform your data into chart images with less effort
 * [Botlytics](http://www.botlytics.co/) - Analytics for your bot. Track the messages your bot sends and the conversations your bot has
 * [UxProbe](https://www.uxpro.be/chatbot-analytics/) - Use UXprobe to measure the most important thing about a chatbot – how often users are successful. See how users complete or fail tasks (intents). Drill into sessions with failed tasks to improve the logic of your chatbot
@@ -267,11 +275,9 @@ You can request access here:
 
 ### Bot building platforms
 * [ManyChat](https://manychat.com/) - Create a Facebook bot to engage your audience. Send news and content, automate interaction and much more. Easy 2-minute setup. No coding required. Free
-* [PullString](https://www.pullstring.com) - Offers a professional authoring environment, hosted AI and machine learning runtime, and integrated conversation analytics to enterprises, agencies, and startups across verticals as diverse as entertainment, customer service, travel, automotive, health and fitness, finance, human resources, and IoT.
 * [BLiP](http://blip.ai/en/) - BLiP helps you serve, engage and sell through conversations on your site and app, Facebook Messenger, Workplace, SMS, Email, Telegram, Twitter, Skype and other popular apps. All you need to create, manage and evolve your chatbot on the same platform.
 * [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding. Launch a full-featured chatbot in 7 minutes
 * [Sequel](https://www.onsequel.com/) - Create messenger bots with personality. Engage your fans and followers with intimate conversational experiences. It only takes minutes to build
-* [init.ai](https://www.init.ai/) - The most powerful way to build, train, and deploy intelligent conversational apps. Automate conversations, Analyze them for actionable insights and Assist sales and support staff in communications
 * [bothaus.io](http://bothaus.io) - The Chatbot Augmentation Platfom. Build, enrich, deploy & monitor your chatbots and integrate with a range of services.
 * [BotEngine](https://botengine.ai/) - BotEngine is a natural language understanding framework that allows you to create intelligent chat bot for any service that will communicate with customers.
 * [Meya](https://meya.ai/) - Make amazing bots. Build, train and host your bots using one platform
@@ -330,6 +336,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Google Home](https://madeby.google.com/home/) - Google Home is a voice-activated speaker powered by the Google Assistant. Ask it questions. Tell it to do things. It’s your own Google, always ready to help. Just start with, "Ok Google"
 * [Magic](https://getmagic.com/) - Magic is a special phone number you text to get anything you want, hassle free, 24/7
 * [Sensay](https://www.sensay.it/) - Instantly connect with a real human whenever you need advice or inspiration. It’s anonymous, free, and works in your favorite messengers
+* [HangoutsChatPollsBot](https://github.com/Samahu/HangoutsChatPollsBot) - A chatbot that allows you to create and run custom polls within G-Suite Hangouts Chat environment
 
 ### Payment & subscription services
 * [Tap2Pay](http://tap2pay.me/) - Payments solution for chatbots
@@ -393,6 +400,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Telegram-Typings](https://www.npmjs.com/package/telegram-typings) - A tool for parsing Telegram API page to the typings.
 * [Chatito](https://rodrigopivi.github.io/Chatito) - Generate datasets for nlu chatbots quickly using a simple DSL.
 * [Probot](https://probot.github.io/) - SDK for building bots around GitHub workflows
+* [wayback](https://github.com/wabarc/wayback) - An easier way to interact with several bots for wayback webpage
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
@@ -551,6 +559,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Bot Theory](https://github.com/dpgailey/bot-theory-book) - Bot Theory: A Concise Introduction. Defining the scope, components, architecture and relationships of bots and their environments
 * [Building Chatbots with Microsoft Bot Framework and Node.js](https://www.manning.com/books/building-chatbots-with-microsoft-bot-framework-and-nodejs) - A book that provides a Step-by-Step guide to building chatbots using the Microsoft Bot Framework and Node.js. The book also discusses the underlying architecture and design principles for building chatbots.
 * [Building a Chatbot with Laravel and BotMan](https://laravel-news.com/chatbot) - "Building a Chatbot with Laravel and Botman" is a hands on guide to building your own personal chatbot. You'll learn how to onboard new users, allow them to access your latest articles, push out new articles in real-time and respond to small talk.
+* [Conversational AI](https://www.manning.com/books/conversational-ai) - A book that helps you design, build, train, and test your chatbot.
 
 ### Communities/chats
 * [Bot Designers, Developers & Marketers](https://www.facebook.com/groups/botdesigners/) - Facebook community where experts share information, tactics and strategies for designing, building, and marketing bots.
@@ -573,5 +582,3 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [BotCube](https://botcube.co/) has waived all copyright and related or neighboring rights to this work.
